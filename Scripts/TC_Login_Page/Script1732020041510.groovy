@@ -21,15 +21,19 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://reelcinemas.com/en-ae/')
 
-WebUI.setText(findTestObject('Object Repository/TestSuite/Page_Sign In/input_Sign up_emailaddress'), 'naga.joshi@gmail.com')
+WebUI.click(findTestObject('Object Repository/Page_Reel Cinema Movies  Cinema in Dubai  R_5f4fce/i'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/TestSuite/Page_Sign In/input_Password_password'), '7ntvRxAy0YnCuWEkNX4hxA==')
+WebUI.click(findTestObject('Object Repository/Page_Reel Cinema Movies  Cinema in Dubai  R_5f4fce/span_LoginSignUp'))
 
-WebUI.click(findTestObject('Object Repository/TestSuite/Page_Sign In/span_LOG IN'))
+WebUI.setText(findTestObject('Object Repository/Page_Sign In/input_Sign up_emailaddress'), 'naga.joshi@gmail.com')
 
-WebUI.click(findTestObject('Object Repository/TestSuite/Page_Reel Cinema Movies  Cinema in Dubai  R_5f4fce/span_Hi Nagaraj SJ'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign In/input_Password_password'), '7ntvRxAy0YnCuWEkNX4hxA==')
 
-WebUI.click(findTestObject('Object Repository/TestSuite/Page_Reel Cinema Movies  Cinema in Dubai  R_5f4fce/a_Sign out'))
+WebUI.click(findTestObject('Object Repository/Page_Sign In/span_LOG IN'))
+
+WebUI.click(findTestObject('Object Repository/Page_Reel Cinema Movies  Cinema in Dubai  R_5f4fce/span_Hi Nagaraj SJ'))
+
+WebUI.click(findTestObject('Object Repository/Page_Reel Cinema Movies  Cinema in Dubai  R_5f4fce/a_Sign out'))
 
 WebUI.closeBrowser()
 

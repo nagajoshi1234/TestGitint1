@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//body[@id='bodyclassname']/div[7]/header/nav/ul/li[6]/a/span[2]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='The Springs Souk'])[1]/following::span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
