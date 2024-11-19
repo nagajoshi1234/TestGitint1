@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Menu</name>
+   <tag></tag>
+   <elementGuidId>302e0693-233d-400e-8a16-3bde99c4750c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.c-menu-btn.js-open-side-nav</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='bodyclassname']/div[6]/header/nav/ul/li[7]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>a >> internal:has-text=&quot;Menu&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>684b21d1-f1ef-49a1-b13f-7df4c3699df3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>d332b321-17f3-4451-8923-5479ca572718</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c-menu-btn js-open-side-nav</value>
+      <webElementGuid>decaa73e-0eb9-44be-8731-7b4507e1023f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Menu
+            </value>
+      <webElementGuid>3c4becea-df28-459b-b689-77435064c7d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyclassname&quot;)/div[@class=&quot;headerheadache&quot;]/header[@class=&quot;c-main-header&quot;]/nav[@class=&quot;header-links js-header-links&quot;]/ul[1]/li[7]/a[@class=&quot;c-menu-btn js-open-side-nav&quot;]</value>
+      <webElementGuid>fc37664e-d749-49d0-8353-d64e95aaf128</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='bodyclassname']/div[6]/header/nav/ul/li[7]/a</value>
+      <webElementGuid>7323163c-f7f7-46e7-ae61-b61fd111ab36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Look Up a Booking'])[1]/following::a[1]</value>
+      <webElementGuid>1c2c2b2b-a880-4ec1-a8f5-82275ca65728</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login/SignUp'])[1]/following::a[2]</value>
+      <webElementGuid>6be24381-45b8-4b25-a1b1-02eb6d7cf419</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[3]</value>
+      <webElementGuid>f94087aa-6bd1-4f1b-82e9-399b341707dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/a</value>
+      <webElementGuid>3df73bbe-fa5b-4e12-a055-d5fe70add0de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '
+                Menu
+            ' or . = '
+                Menu
+            ')]</value>
+      <webElementGuid>5a11935d-ee6d-464c-b548-d2e7f7e4c714</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
